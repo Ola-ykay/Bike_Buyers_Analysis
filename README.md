@@ -16,5 +16,5 @@ This project analyzes a **Bike Buyers Dataset** to uncover key insights about cu
 - **KPI Tracking:** Total/Average Income, Bike Purchases by Age & Gender, Income by Region
 
 ## Dashboard Preview
-![Bike Buyer Dashboard](Bike Buyer Dashboard.png) 
+![Bike Buyer Dashboard](https://github.com/Ola-ykay/Bike_Buyers_Analysis/blob/main/Bike_Buyers_dashboard.png)
 
